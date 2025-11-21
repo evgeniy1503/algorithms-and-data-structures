@@ -1,4 +1,4 @@
-package ru.prokhoorv.lesson1;
+package ru.prokhorov.lesson1;
 
 import java.util.ArrayList;
 import java.util.HashMap;
